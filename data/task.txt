@@ -1,0 +1,10 @@
+1 - I am reading c++ , qml , qt in 2022
+2 - Pointer is an object in programming language that stores a memory address
+3 - Structure creates a data type that can be used group items of different types into a single type
+4 - Stack memory is accessed in last in first order
+5 - The size of heap memory is larger
+6 - c++ qml 
+7 - Point
+8 - Structure stores all 
+9 - Dynamically allocate memory
+10 - Git repository
